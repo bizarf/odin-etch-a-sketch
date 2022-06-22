@@ -2,8 +2,9 @@
     display: grid;
     /* grid-template-columns: repeat(16, 1fr); */
     /* grid-template-rows: repeat(16, 2em); */
+    width: 960px;
 }
 
-.cell {
+.gridCellStyle {
     border: solid black 1px;
 }
